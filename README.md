@@ -1,4 +1,5 @@
-## Me llamo Reese. Ne se que estoy haciendo.
+## My name is Reese Harmeyer!
+I'm a computer Engineering student at Wright State University. I just got married in June so that's my fun fact I guess. I enjoy problem solving of any kind and finding creative solutions.
 
 <!--
 **RESNIPER1/RESNIPER1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
