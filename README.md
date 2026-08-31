@@ -1,5 +1,7 @@
 ## My name is Reese Harmeyer!
 I'm a Computer Engineering student at Wright State University. I just got married in June so that's my fun fact I guess. I enjoy problem solving of any kind and finding creative solutions.
+One project that I'm going to work on this year is running the electrical in a new building where I work.
+Another project that I'm going to work on is our Team Projects design.
 
 <!--
 **RESNIPER1/RESNIPER1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
